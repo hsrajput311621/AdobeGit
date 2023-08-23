@@ -1,0 +1,6 @@
+Thank you for the contentnttmming
+I am going to lear programming by the end of the year
+This is my deadline of the year 2022
+This new data added by f.write() function which remove the old data with
+new data
+Hitesh bhai bhot acche h Thank you for the content
